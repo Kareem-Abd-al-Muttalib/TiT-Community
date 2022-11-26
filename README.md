@@ -1,6 +1,5 @@
 # Project description:
  TiT Community is a template of one page with more than 15 sections.
-I have built it from zero.
 
 # Technologies:
     - HTML5.
