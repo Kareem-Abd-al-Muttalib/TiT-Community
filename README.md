@@ -25,4 +25,4 @@ TiT Community is a meticulously crafted one-page template designed to impress an
 
 ## Demo:
 
-Explore the TiT Community template with our live demo [here](https://kareem-abdel-muttalib.github.io/TiT-Community/), and experience its features firsthand. See how our template can elevate your online presence and captivate your audience.
+Explore the TiT Community template with our live demo [here](https://kareem-abd-al-muttalib.github.io/TiT-Community/), and experience its features firsthand. See how our template can elevate your online presence and captivate your audience.
